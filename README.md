@@ -10,10 +10,10 @@ Runs on MacBook CPU or Colab GPU. Great as a learning project or research demo.
 - Modular structure (`src/mini_drive/`, `scripts/`)
 - Works with sample Udacity lane videos (`solidWhiteRight`, `solidYellowLeft`, `challenge`)
 
-## 📦 Setup
+## 🛠️ Setup
 ```bash
 python -m venv .venv
-source .venv/bin/activate    # Windows: .venv\Scripts\activate
+source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 
 ## 🎥 Sample Inputs & Outputs
