@@ -19,20 +19,23 @@ pip install -r requirements.txt
 
 ## 🎥 Sample Inputs & Outputs
 
-### 📥 Input Videos
-| Video               | Download Link |
-|---------------------|---------------|
-| solidWhiteRight.mp4  | [Download](https://drive.google.com/uc?export=download&id=1wKz1jC-TK66DS5T1T0m-Jsy4jZE4zxRe) |
-| solidYellowLeft.mp4  | [Download](https://drive.google.com/uc?export=download&id=1PIWw4B_CViOFSsXVnnEvvYq-J1x-83k3) |
-| road_demo.mp4        | [Download](https://drive.google.com/uc?export=download&id=1ERTPfN41CXrtZ4JghRt2eK8HWgaDl4Wq) |
-| challenge.mp4        | [Download](https://drive.google.com/uc?export=download&id=1cAxvty2XeKWVY7Lx9NCgMT7eJfNEI6fd) |
+## 🎥 Input Video Previews (10s)
+
+| Video               | Preview                          |
+|---------------------|----------------------------------|
+| solidWhiteRight.mp4  | ![Preview](assets/solidWhiteRight.gif) |
+| solidYellowLeft.mp4  | ![Preview](assets/solidYellowLeft.gif) |
+| road_demo.mp4        | ![Preview](assets/road_demo.gif) |
+| challenge.mp4        | ![Preview](assets/challenge.gif) |
 
 ---
 
-### 📤 Example Outputs
-| Result Video             | Preview / Download |
-|---------------------------|--------------------|
-| solidWhiteRight_fusion.mp4   | [Download](https://drive.google.com/uc?export=download&id=1EYM_GLkJBFP9JzpXwk77z8hoeduNXxdv) |
-| solidYellowLeft_fusion.mp4   | [Download](https://drive.google.com/uc?export=download&id=1D74gs1InLAVbB0nfknepgwuvNLdgI0k_) |
-| road_demo_annotated.mp4      | [Download](https://drive.google.com/uc?export=download&id=1OIVmjj0ZStSj6LjEgiwxDFISMouYtIV_) |
-| challenge_fusion.mp4         | [Download](https://drive.google.com/uc?export=download&id=19OWn9chuFpRJyGsXBqC9kG5B62VeyukQ) |
+## 🎥 Output Previews (10s)
+
+| Video                     | Preview                                      |
+|---------------------------|-----------------------------------------------|
+| solidWhiteRight_fusion.mp4 | ![Preview](assets/solidWhiteRight_fusion.gif) |
+| solidYellowLeft_fusion.mp4 | ![Preview](assets/solidYellowLeft_fusion.gif) |
+| road_demo_annotated.mp4    | ![Preview](assets/road_demo_annotated.gif)    |
+| challenge_fusion.mp4       | ![Preview](assets/challenge_fusion.gif)       |
+
