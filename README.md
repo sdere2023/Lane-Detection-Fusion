@@ -15,6 +15,7 @@ Runs on MacBook CPU or Colab GPU. Great as a learning project or research demo.
 python -m venv .venv
 source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
+```
 
 ## 🎥 Sample Inputs & Outputs
 
