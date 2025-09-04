@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.DS_Store
+
+# Virtual envs
+.venv/
+venv/
+
+# Editor / OS
+.vscode/
+.idea/
+
+# Build / cache
+dist/
+build/
+
+# Project artifacts
+outputs/
+runs/
+logs/
+
+# Large inputs (keep sample links in README instead)
+inputs/*.mp4
+
+# Large weights unless using LFS
+models/*.pt
+models/*.onnx
