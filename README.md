@@ -21,21 +21,17 @@ pip install -r requirements.txt
 ### 📥 Input Videos
 | Video               | Download Link |
 |---------------------|---------------|
-| solidWhiteRight.mp4  | [Download](https://drive.google.com/file/d/1wKz1jC-TK66DS5T1T0m-Jsy4jZE4zxRe/view?usp=drive_link) |
-| solidYellowLeft.mp4  | [Download](https://drive.google.com/file/d/1PIWw4B_CViOFSsXVnnEvvYq-J1x-83k3/view?usp=drive_link) |
-| road_demo.mp4        | [Download](https://drive.google.com/file/d/1ERTPfN41CXrtZ4JghRt2eK8HWgaDl4Wq/view?usp=drive_link) |
-| challenge.mp4        | [Download](https://drive.google.com/file/d/1cAxvty2XeKWVY7Lx9NCgMT7eJfNEI6fd/view?usp=drive_link) |
-
-> Put all input videos into the `inputs/` folder after downloading.
+| solidWhiteRight.mp4  | [Download](https://drive.google.com/uc?export=download&id=1wKz1jC-TK66DS5T1T0m-Jsy4jZE4zxRe) |
+| solidYellowLeft.mp4  | [Download](https://drive.google.com/uc?export=download&id=1PIWw4B_CViOFSsXVnnEvvYq-J1x-83k3) |
+| road_demo.mp4        | [Download](https://drive.google.com/uc?export=download&id=1ERTPfN41CXrtZ4JghRt2eK8HWgaDl4Wq) |
+| challenge.mp4        | [Download](https://drive.google.com/uc?export=download&id=1cAxvty2XeKWVY7Lx9NCgMT7eJfNEI6fd) |
 
 ---
 
 ### 📤 Example Outputs
 | Result Video             | Preview / Download |
 |---------------------------|--------------------|
-| solidWhiteRight_fusion.mp4   | [Download](https://drive.google.com/file/d/1EYM_GLkJBFP9JzpXwk77z8hoeduNXxdv/view?usp=drive_link) |
-| solidYellowLeft_fusion.mp4   | [Download](https://drive.google.com/file/d/1D74gs1InLAVbB0nfknepgwuvNLdgI0k_/view?usp=drive_link) |
-| road_demo_annotated.mp4      | [Download](https://drive.google.com/file/d/1OIVmjj0ZStSj6LjEgiwxDFISMouYtIV_/view?usp=drive_link) |
-| challenge_fusion.mp4         | [Download](https://drive.google.com/file/d/19OWn9chuFpRJyGsXBqC9kG5B62VeyukQ/view?usp=drive_link) |
-
-> All output videos will be saved automatically in the `outputs/` folder.
+| solidWhiteRight_fusion.mp4   | [Download](https://drive.google.com/uc?export=download&id=1EYM_GLkJBFP9JzpXwk77z8hoeduNXxdv) |
+| solidYellowLeft_fusion.mp4   | [Download](https://drive.google.com/uc?export=download&id=1D74gs1InLAVbB0nfknepgwuvNLdgI0k_) |
+| road_demo_annotated.mp4      | [Download](https://drive.google.com/uc?export=download&id=1OIVmjj0ZStSj6LjEgiwxDFISMouYtIV_) |
+| challenge_fusion.mp4         | [Download](https://drive.google.com/uc?export=download&id=19OWn9chuFpRJyGsXBqC9kG5B62VeyukQ) |
